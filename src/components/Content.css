@@ -1,0 +1,11 @@
+.content-container {
+    width: 550px;
+    height: 679px;
+    left: 0px;
+    top: 0px;
+    background-color: #292d2e;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding-top: 15px;
+}

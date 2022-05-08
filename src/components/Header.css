@@ -1,0 +1,35 @@
+header {
+    width: 550px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    background: #1e1e1e;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+.hunter-oath {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 120px;
+    top: 16px;
+    background: #FFFFFF;
+}
+
+.header-title {
+    position: absolute;
+    height: 16px;
+    left: 220px;
+    font-family: 'Inter';
+    font-style: normal;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+    font-size: 26px;
+    left: 165px;
+    margin: 0;
+    top: 20px;
+}

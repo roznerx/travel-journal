@@ -1,0 +1,94 @@
+.card-container {
+    width: 500px;
+    height: 200px;
+    left: 40px;
+    top: 100px;
+    background-color: #545f65;
+    display: flex;
+    flex-direction: row;
+    margin-left: 25px;
+    border: 2px solid black;
+}
+
+.card-img {
+    width: 125px;
+    height: 168px;
+    left: 40px;
+    top: 100px;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.card-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.upper-stats {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    height: 50px;
+    gap: 20px;
+    margin-left: 13px;
+}
+
+.location {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+    margin: 0;
+    width: 160px;
+}
+
+.boss {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    text-decoration-line: underline;
+    color: #0d0d0d;
+}
+
+.title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #0d0d0d;
+    margin: 0;
+    height: 35px;
+    width: 300px;
+    margin-left: 15px;
+}
+
+.dates {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.24px;
+    line-height: 12px;
+    color: #0d0d0d;
+    margin: 0;
+    width: 300px;
+    margin-left: 15px;
+}
+
+.description {
+    width: 326px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 150%;
+    color: #0d0d0d;
+    margin: 0;
+    margin-left: 15px;
+    margin-top: 10px;
+}
