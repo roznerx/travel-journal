@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roznerx/travel-journal/static/css/main.1fe03c5f.css",
+    "main.js": "/roznerx/travel-journal/static/js/main.a94a83bf.js",
+    "static/media/bloodborne.jpeg": "/roznerx/travel-journal/static/media/bloodborne.16c62387647c832cea47.jpeg",
+    "static/media/hunter-oath.png": "/roznerx/travel-journal/static/media/hunter-oath.c02c2c005d6dfaf0e7d0.png",
+    "index.html": "/roznerx/travel-journal/index.html",
+    "main.1fe03c5f.css.map": "/roznerx/travel-journal/static/css/main.1fe03c5f.css.map",
+    "main.a94a83bf.js.map": "/roznerx/travel-journal/static/js/main.a94a83bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fe03c5f.css",
+    "static/js/main.a94a83bf.js"
+  ]
+}
