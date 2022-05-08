@@ -10,7 +10,7 @@ time! Look way more original, right?
 
 - Same as before: this mini project was made in order to practice basic **React** concepts, which I found pretty intuitive to grasp thanks to my past use of *Webpack* and modules in **The Odin Project's** Vanilla Javascript course. This time, I learned about passing props to the components in order to avoid repeating code. The most difficult part was to match de CSS formatting, though *Figma* proved quite an interesting tool in order to help get done with the visual aspect in a quick way.
 
-- You can check it out at [COMING SOON]
+- You can check it out at https://roznerx.github.io/travel-journal/
 
 Made by **roznerx** (ignaciorosner@gmail.com)
 
