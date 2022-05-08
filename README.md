@@ -18,5 +18,6 @@ Made by **roznerx** (ignaciorosner@gmail.com)
 
 - Got every asset and image from the official **Bloodborne Wiki** [https://www.bloodborne-wiki.com/]
 
-- Screenshot:
+## Screenshots:
 
+![imagen](https://user-images.githubusercontent.com/81205827/167318077-b941ee02-6111-4e4e-8f83-bee445eea6c3.png)
